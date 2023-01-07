@@ -43,4 +43,6 @@ func main(){
 		fmt.Println(i)
 		// detect variable
 		fmt.Printf("%v, %T", i, i)
+
+	// Scan: its used to request input from user  
 }
